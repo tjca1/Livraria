@@ -14,4 +14,4 @@
 
 ![base_dados](https://user-images.githubusercontent.com/28515964/38456189-f230a124-3a57-11e8-837a-a0fa470be616.png)
 
-![confmysql](https://user-images.githubusercontent.com/28515964/38456422-0bc4194c-3a5b-11e8-9891-df59d85fd497.png)
+![confmysql](https://user-images.githubusercontent.com/28515964/38456499-948550f2-3a5b-11e8-8b7a-8c30d333f538.png)
