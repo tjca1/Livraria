@@ -1,0 +1,41 @@
+
+spring.jmx:
+   enabled: false
+
+server:
+  port: 8090
+
+security:
+  basic:
+    enabled: false
+
+management:
+  port: 8091
+  security:
+    enabled: false 
+
+project:
+  name: livraria
+  version: 0.1
+  description: Projeto construido para teste saraiva
+info:
+  build:
+    artifact: ${project.artifactId}
+    name: ${project.name}
+    description: ${project.description}
+    version: ${project.version}
+---
+livro.service:
+  name: 'default profile:'
+
+spring:
+  datasource:
+      url: jdbc:mysql://localhost:3306/base_geral
+      username: saraiva
+      password: saraiva
+      platform: mysql
+      initialize: true
+      
+  jpa:
+      database-platform: org.hibernate.dialect.MySQLDialect
+

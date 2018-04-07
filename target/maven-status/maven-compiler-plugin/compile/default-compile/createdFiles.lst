@@ -1,0 +1,11 @@
+br\com\saraiva\service\ServiceProperties.class
+br\com\saraiva\service\LivrosServiceHealth.class
+br\com\saraiva\service\LivrosServiceEvent.class
+br\com\saraiva\exeception\ResourceNotFoundException.class
+br\com\saraiva\controller\AbstractRestHandler.class
+br\com\saraiva\dao\jpa\LivroRepository.class
+br\com\saraiva\exeception\RestErrorInfo.class
+br\com\saraiva\domain\Livro.class
+br\com\saraiva\Application.class
+br\com\saraiva\exeception\DataFormatException.class
+br\com\saraiva\service\LivrosService.class

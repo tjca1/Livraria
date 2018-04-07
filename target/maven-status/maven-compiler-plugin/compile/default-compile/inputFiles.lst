@@ -1,0 +1,17 @@
+C:\GIT\Livraria\src\main\java\br\com\saraiva\Application.java
+C:\GIT\Livraria\src\main\java\br\com\saraiva\exeception\RestErrorInfo.java
+C:\GIT\Livraria\src\main\java\br\com\saraiva\service\ServiceProperties.java
+C:\GIT\Livraria\src\main\java\br\com\saraiva\controller\LivrosController.java
+C:\GIT\Livraria\src\main\java\br\com\saraiva\util\StringUtil.java
+C:\GIT\Livraria\src\main\java\br\com\saraiva\service\LivrosServiceEvent.java
+C:\GIT\Livraria\src\main\java\br\com\saraiva\dao\jpa\LivroRepository.java
+C:\GIT\Livraria\src\main\java\br\com\saraiva\controller\AbstractRestHandler.java
+C:\GIT\Livraria\src\main\java\br\com\saraiva\dao\jpa\Repository.java
+C:\GIT\Livraria\src\main\java\br\com\saraiva\exeception\ResourceNotFoundException.java
+C:\GIT\Livraria\src\main\java\br\com\saraiva\domain\Livro.java
+C:\GIT\Livraria\src\main\java\br\com\saraiva\RestControllerAspecto.java
+C:\GIT\Livraria\src\main\java\br\com\saraiva\util\Msgs.java
+C:\GIT\Livraria\src\main\java\br\com\saraiva\dto\StatusResponse.java
+C:\GIT\Livraria\src\main\java\br\com\saraiva\service\LivrosServiceHealth.java
+C:\GIT\Livraria\src\main\java\br\com\saraiva\exeception\DataFormatException.java
+C:\GIT\Livraria\src\main\java\br\com\saraiva\service\LivrosService.java
