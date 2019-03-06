@@ -15,10 +15,6 @@
 		<version>1.5.9.RELEASE</version>
 	</parent>
 
-	<properties>
-		<start-class>br.com.saraiva.app.Application</start-class>
-	</properties>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
